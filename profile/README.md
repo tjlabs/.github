@@ -9,4 +9,4 @@ To experience SOTA localization performance, get started with these SDKs.
 [jupiter-ios-sdk](https://github.com/tjlabs/jupiter-sdk-ios)  
 [jupiter-android-sdk](https://github.com/tjlabs/jupiter-android_v2)
 
-Contact: pepper@tjlabscorp.com  
+Contact: leo.shin@tjlabscorp.com  
